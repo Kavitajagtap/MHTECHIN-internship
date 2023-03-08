@@ -9,18 +9,22 @@
 4.Divide
 5.Modulus
 6.Calculate power of a number
+
 Enter choice(1/2/3/4/5/6): 1
 Enter first number: 89
 Enter second number: 45
-Addition ->  89.0 + 45.0 = 134.0    
+Addition ->  89.0 + 45.0 = 134.0 
+
 Enter choice(1/2/3/4/5/6): 3
 Enter first number: 3
 Enter second number: 2
 Multiplication ->  3.0 * 2.0 = 6.0
+
 Enter choice(1/2/3/4/5/6): 6
 Enter a number : 8
 Enter power--> (2/3/4...) : 3
 8 ^ 3 is: 512
+
 Enter choice(1/2/3/4/5/6): 
 
 """
